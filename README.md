@@ -1,3 +1,3 @@
 # vscode-test Codeの練習
 
-練習です
+このリポジトリを利用して、『VS Code』のGitの練習をしてください。
